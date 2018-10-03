@@ -36,6 +36,7 @@
 ### Ethereum Basics
 
 * [Free Github book on Ethereum by Andreas Antonopolous](https://github.com/ethereumbook/ethereumbook)
+* [Free Book - Learn Ethereum with Go](https://goethereumbook.org/)
 
 ### Solidity Basics
 
@@ -54,15 +55,17 @@
 
 ### Whisper
 
-* [
+* [What is Whisper](https://github.com/ethereum/wiki/wiki/Whisper)
+* [How to Whisper](https://github.com/ethereum/go-ethereum/wiki/How-to-Whisper)
+* [Whisper and Status.im](https://www.sitepoint.com/ethereum-messaging-whisper-status/)
 
 ### Game Theory
 
-* Game Theory Series on The Great Courses (there is a free trial and then a monthly subscription)
+* [Game Theory Series on The Great Courses](https://www.thegreatcoursesplus.com/game-theory-in-life-business-and-beyond) - there is a free trial and then a monthly subscription
 
 ### Cryptography
 
-* Cryptography I on Coursera
+* [Cryptography I on Coursera](https://www.coursera.org/learn/crypto)
 
 ### Cross-chain Protocols
 
