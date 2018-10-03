@@ -35,9 +35,12 @@
 
 ## Solidity Basics
 
-* Cryptokitties
+* [Cryptozombies](https://cryptozombies.io/)
 
 ## Truffle
+
+* [Truffle - Getting Started](https://www.truffleframework.com/docs/truffle/overview)
+* [Truffle - Truffle Boxes](https://www.truffleframework.com/tutorials)
 
 ## IPFS
 
