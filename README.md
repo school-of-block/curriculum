@@ -1,6 +1,6 @@
 # A Pathway for Learning Blockchain Development
 
-*This is a work in progress. Feel free to open issues and give feedback.*
+*This is a work in progress and is being updated daily/weekly. Feel free to open issues and give feedback.*
 
 **The resources here are all free, unless otherwise marked.**
 
