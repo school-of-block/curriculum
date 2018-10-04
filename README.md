@@ -9,6 +9,7 @@
 1. [Blockchain Basics](BLOCKCHAIN_BASICS.md)
 1. [Bitcoin](BITCOIN.md)
 1. [Ethereum](ETHEREUM.md)
+1. [Hyperledger](HYPERLEDGER.md)
 1. [IPFS](IPFS.md)
 1. Other Development Platforms
 1. Projects
