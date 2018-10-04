@@ -6,13 +6,11 @@
 
 ## Table of Contents
 
-1. What is Blockchain
-1. Topics
-    1. Bitcoin Basics
-    1. IPFS
-    1. Game Theory
-    1. Cryptography
-    1. Other Development Platforms
+1. [Blockchain Basics](BLOCKCHAIN_BASICS.md)
+1. [Bitcoin](BITCOIN.md)
+1. [Ethereum](ETHEREUM.md)
+1. [IPFS](IPFS.md)
+1. Other Development Platforms
 1. Projects
 1. Research
 
