@@ -16,7 +16,6 @@
     1. Whisper
     1. Game Theory
     1. Cryptography
-    1. Cross-chain Protocols
     1. Other Development Platforms
 1. Projects
 1. Research
@@ -66,10 +65,6 @@
 ### Cryptography
 
 * [Cryptography I on Coursera](https://www.coursera.org/learn/crypto)
-
-### Cross-chain Protocols
-
-// Polkadot, Interledger, Cosmos
 
 ### Other Development Platforms
 
