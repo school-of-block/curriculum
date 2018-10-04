@@ -11,6 +11,7 @@
 1. [Ethereum](ETHEREUM.md)
 1. [Hyperledger](HYPERLEDGER.md)
 1. [IPFS](IPFS.md)
+1. [Cross-chain Protocols](CROSSCHAIN_PROTOCOLS.md)
 1. Other Development Platforms
 1. Projects
 1. Research
