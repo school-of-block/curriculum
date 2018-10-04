@@ -23,7 +23,9 @@
 
 ## What is Blockchain?
 
-* [Great video explanation of how blockchain works](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+* [How does a blockchain work - Simply Explained](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+* [Great video explanation of how blockchain works - 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+* [What is Blockchain Technology? A Step-by-Step Guide For Beginners - Blockgeeks](https://blockgeeks.com/guides/what-is-blockchain-technology/)
 * [Videos and Interactive blockchain demo on anders.com](https://anders.com/blockchain/)
 
 ## Topics
