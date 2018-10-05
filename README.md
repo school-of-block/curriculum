@@ -25,5 +25,5 @@
 ## Research
 
 * [The Morning Paper - Blockchain](https://blog.acolyer.org/?s=blockchain)
-* http://blockchain.mit.edu/
-* https://www.blockchainresearchinstitute.org/
+* [MIT Blockchain](http://blockchain.mit.edu/)
+* [Blockchain Research Institute](https://www.blockchainresearchinstitute.org/)
