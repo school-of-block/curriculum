@@ -22,6 +22,12 @@
 
 ## Projects
 
+1. Build an Ethereum blockchain explorer
+1. Build your own blockchain
+1. Create your own token
+1. Build a chat application with whisper
+1. Build a game
+
 ## Research
 
 * [The Morning Paper - Blockchain](https://blog.acolyer.org/?s=blockchain)
