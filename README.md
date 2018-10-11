@@ -14,12 +14,10 @@
 1. [Cross-chain Protocols](CROSSCHAIN_PROTOCOLS.md)
 1. Development Platforms
    * [Lisk](LISK.md)
-1. Projects
-1. Research
-
-### Other Development Platforms
-
-// eos, lisk, neo, etc.
+   * [EOS](EOS.md)
+   * [Neo](NEO.md)
+1. [Projects](#projects)
+1. [Research](#research)
 
 ## Projects
 
