@@ -24,8 +24,10 @@
 1. Build an Ethereum blockchain explorer
 1. Build your own blockchain
 1. Create your own token
-1. Build a chat application with whisper
+1. Create a wallet for your coin
+1. Build a chat application
 1. Build a game
+1. Build a forum with a reputation system
 
 ## Research
 
