@@ -4,6 +4,7 @@
 
 * [How does a blockchain work - Simply Explained](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 * [Great video explanation of how blockchain works - 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+* [Understand blockchain and the ecosystem - 95% Percent Papers](https://hackernoon.com/95percent-blockchain-technology-d28673e55673)
 * [What is Blockchain Technology? A Step-by-Step Guide For Beginners - Blockgeeks](https://blockgeeks.com/guides/what-is-blockchain-technology/)
 * [Videos and Interactive blockchain demo on anders.com](https://anders.com/blockchain/)
 
