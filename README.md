@@ -35,3 +35,4 @@
 * [MIT Blockchain](http://blockchain.mit.edu/)
 * [Blockchain Research Institute](https://www.blockchainresearchinstitute.org/)
 * [Arxiv Sanity - Blockchain](http://www.arxiv-sanity.com/search?q=blockchain)
+* [Curate Blockchain Papers](https://github.com/decrypto-org/blockchain-papers)
